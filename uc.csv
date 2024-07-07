@@ -1,7 +1,7 @@
 service,subservice_name,subservice_charge,city_name,country_name,source
 ac_service_repair,Non-Inverter PCB repaired,['₹1800'],ahmedabad,India,UrbanCompany
 ac_service_repair,Inverter PCB repaired,['₹4000'],ahmedabad,India,UrbanCompany
-ac_service_repair,Replace LVT,"['₹900', '₹499 (Labour)']",ahmedabad,India,UrbanCompany
+ac_service_repair,Replace LVT,"['₹900', '₹499 (Labour)']",ahmedabad,India,UrbanCompany 
 ac_service_repair,Capacitor 2-5 mfd,"['₹250', '₹349 (Labour)']",ahmedabad,India,UrbanCompany
 ac_service_repair,Capacitor 10-25 mfd,"['₹400', '₹349 (Labour)']",ahmedabad,India,UrbanCompany
 ac_service_repair,Capacitor 35-50 mfd,"['₹400', '₹349 (Labour)']",ahmedabad,India,UrbanCompany
